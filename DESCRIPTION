@@ -1,0 +1,11 @@
+Package: IDDA
+Type: Package
+Title: Infectious Disease Data Analytics
+Version: 1.0.0
+Author: Lily Wang
+Maintainer: Lily Wang <lilywang.stat@gmail.com>
+Description: Package for Book: "Data Science for Infectious Disease Data Analytics: an introduction with R"
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
